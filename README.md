@@ -3,8 +3,8 @@
 <h2>Description</h2>
 This project is a budget app built from scratch utilizing HTML, CSS and JavaScript. It's easy to use and isn't too complicated to be understood by it's user.<br/>
 
-<h2>Replit Hosted Page Link</h2>
-https://esthers-budget-app.esther-annann.repl.co
+<h2>Hosted Page Link</h2>
+https://estheruduma.github.io/Budget-App/
 
 <h2>Languages and Utilities Used</h2>
 
